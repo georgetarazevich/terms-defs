@@ -8,17 +8,6 @@ description: >-
 # Each key is a 3-letter ISO 639-2 T language code.
 subregisters:
   eng:
-  ara:
-  zho:
-  dan:
-  nld:
-  fin:
   fra:
-  deu:
   jpn:
-  kor:
-  msa:
-  pol:
-  rus:
-  spa:
   swe:
