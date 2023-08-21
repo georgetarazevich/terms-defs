@@ -4,7 +4,24 @@ author:
   name: test_user_name
   email: abc@qwert.com
 timeCreated: 2023-08-21T18:57:55.456Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: '12333'
+            type: expression
+        definition: '12345'
+        notes: []
+        examples: []
+        authoritative_source:
+          ref: '123'
+          clause: '12'
+      parents: []
+      timeCreated: 2023-08-21T18:57:55.515Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +41,24 @@ _revisions:
           name: test_user_name
           email: abc@qwert.com
         timeCreated: 2023-08-21T18:57:55.456Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: '12333'
+                    type: expression
+                definition: '12345'
+                notes: []
+                examples: []
+                authoritative_source:
+                  ref: '123'
+                  clause: '12'
+              parents: []
+              timeCreated: 2023-08-21T18:57:55.515Z
         meta:
           registry:
             stage: Draft
