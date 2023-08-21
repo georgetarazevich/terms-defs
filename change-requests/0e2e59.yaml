@@ -4,7 +4,27 @@ author:
   name: test_user_name
   email: abc@qwert.com
 timeCreated: 2023-08-21T18:21:17.655Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: sequence of bytes
+            type: expression
+            normative_status: preferred
+            isAbbreviation: true
+        definition: sequence of bytes
+        notes: []
+        examples: []
+        authoritative_source:
+          ref: sequence of bytes
+          clause: sequence of bytes
+        usageInfo: ''
+      parents: []
+      timeCreated: 2023-08-21T18:21:17.698Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +44,27 @@ _revisions:
           name: test_user_name
           email: abc@qwert.com
         timeCreated: 2023-08-21T18:21:17.655Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: sequence of bytes
+                    type: expression
+                    normative_status: preferred
+                    isAbbreviation: true
+                definition: sequence of bytes
+                notes: []
+                examples: []
+                authoritative_source:
+                  ref: sequence of bytes
+                  clause: sequence of bytes
+                usageInfo: ''
+              parents: []
+              timeCreated: 2023-08-21T18:21:17.698Z
         meta:
           registry:
             stage: Draft
