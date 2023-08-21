@@ -1,0 +1,37 @@
+id: 4b0af3
+author:
+  username: test_user
+  name: test_user_name
+  email: abc@qwert.com
+timeCreated: 2023-08-21T18:57:55.456Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: test_user_name
+      email: abc@qwert.com
+      affiliation: ''
+_revisions:
+  current: 705e0f
+  tree:
+    705e0f:
+      object:
+        id: 4b0af3
+        author:
+          username: test_user
+          name: test_user_name
+          email: abc@qwert.com
+        timeCreated: 2023-08-21T18:57:55.456Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: test_user_name
+              email: abc@qwert.com
+              affiliation: ''
+      parents: []
+      timeCreated: 2023-08-21T18:57:55.456Z
