@@ -10,7 +10,7 @@
 # which must be handled with authentication, Git hooks and/or usage audits.
 
 gitUsernameGoesHere: georgetarazevich
-  isManager: true
+#  isManager: true
 
 anotherGitUsernameGoesHere: georgetarazevich
   isRegistryManager: true
