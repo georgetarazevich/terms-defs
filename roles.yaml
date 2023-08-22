@@ -9,8 +9,8 @@
 # NOTE: This does not enforce the usage of the app in accordance with user role,
 # which must be handled with authentication, Git hooks and/or usage audits.
 
-gitUsernameGoesHere: georgetarazevich
-  isManager: true
+# gitUsernameGoesHere: georgetarazevich
+#  isManager: true
 
 anotherGitUsernameGoesHere: georgetarazevich
   isRegistryManager: true
