@@ -4,7 +4,22 @@ author:
   name: georgetarazevich
   email: abc@qwerty.com
 timeCreated: 2023-08-22T17:05:17.273Z
-revisions: {}
+revisions:
+  concepts:
+    '-1-eng':
+      object:
+        id: -1
+        language_code: eng
+        entry_status: valid
+        terms:
+          - designation: 123_Linux_2
+            type: expression
+        definition: 123_Linux_2
+        notes: []
+        examples: []
+        authoritative_source: {}
+      parents: []
+      timeCreated: 2023-08-22T17:05:17.345Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +39,22 @@ _revisions:
           name: georgetarazevich
           email: abc@qwerty.com
         timeCreated: 2023-08-22T17:05:17.273Z
-        revisions: {}
+        revisions:
+          concepts:
+            '-1-eng':
+              object:
+                id: -1
+                language_code: eng
+                entry_status: valid
+                terms:
+                  - designation: 123_Linux_2
+                    type: expression
+                definition: 123_Linux_2
+                notes: []
+                examples: []
+                authoritative_source: {}
+              parents: []
+              timeCreated: 2023-08-22T17:05:17.345Z
         meta:
           registry:
             stage: Draft
