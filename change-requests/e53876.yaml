@@ -22,7 +22,7 @@ revisions:
       timeCreated: 2023-08-22T19:12:52.502Z
 meta:
   registry:
-    stage: Proposal
+    stage: Withdrawn
   submitter:
     primaryPerson:
       name: georgetarazevich
@@ -66,3 +66,4 @@ _revisions:
       parents: []
       timeCreated: 2023-08-22T19:12:52.413Z
 timeSubmitted: 2023-08-22T19:13:39.017Z
+timeResolved: 2023-08-23T11:18:38.731Z
