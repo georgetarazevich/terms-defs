@@ -1,9 +1,9 @@
-id: e53876
+id: 61e4cc
 author:
   username: georgetarazevich
   name: georgetarazevich
   email: abc@qwerty.com
-timeCreated: 2023-08-22T19:12:52.413Z
+timeCreated: 2023-08-23T12:01:43.750Z
 revisions:
   concepts:
     '-1-eng':
@@ -12,33 +12,36 @@ revisions:
         language_code: eng
         entry_status: valid
         terms:
-          - designation: '123'
+          - designation: '123456789'
             type: expression
-        definition: '123'
+        definition: '123456789'
         notes: []
         examples: []
-        authoritative_source: {}
+        authoritative_source:
+          ref: ISO 32000-2
+          clause: '3'
+        usageInfo: '123456789'
       parents: []
-      timeCreated: 2023-08-22T19:12:52.502Z
+      timeCreated: 2023-08-23T12:01:43.806Z
 meta:
   registry:
-    stage: Withdrawn
+    stage: Resolved
   submitter:
     primaryPerson:
       name: georgetarazevich
       email: abc@qwerty.com
       affiliation: ''
 _revisions:
-  current: 216b7d
+  current: 16c868
   tree:
-    216b7d:
+    16c868:
       object:
-        id: e53876
+        id: 61e4cc
         author:
           username: georgetarazevich
           name: georgetarazevich
           email: abc@qwerty.com
-        timeCreated: 2023-08-22T19:12:52.413Z
+        timeCreated: 2023-08-23T12:01:43.750Z
         revisions:
           concepts:
             '-1-eng':
@@ -47,14 +50,17 @@ _revisions:
                 language_code: eng
                 entry_status: valid
                 terms:
-                  - designation: '123'
+                  - designation: '123456789'
                     type: expression
-                definition: '123'
+                definition: '123456789'
                 notes: []
                 examples: []
-                authoritative_source: {}
+                authoritative_source:
+                  ref: ISO 32000-2
+                  clause: '3'
+                usageInfo: '123456789'
               parents: []
-              timeCreated: 2023-08-22T19:12:52.502Z
+              timeCreated: 2023-08-23T12:01:43.806Z
         meta:
           registry:
             stage: Draft
@@ -64,6 +70,6 @@ _revisions:
               email: abc@qwerty.com
               affiliation: ''
       parents: []
-      timeCreated: 2023-08-22T19:12:52.413Z
-timeSubmitted: 2023-08-22T19:13:39.017Z
-timeResolved: 2023-08-23T11:18:38.731Z
+      timeCreated: 2023-08-23T12:01:43.750Z
+timeSubmitted: 2023-08-23T12:02:42.118Z
+timeResolved: 2023-08-23T11:18:25.843Z
