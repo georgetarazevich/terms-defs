@@ -23,7 +23,7 @@ revisions:
       timeCreated: 2023-08-23T11:09:47.923Z
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: georgetarazevich
@@ -68,3 +68,4 @@ _revisions:
       parents: []
       timeCreated: 2023-08-23T11:09:47.819Z
 timeSubmitted: 2023-08-23T11:10:28.971Z
+timeResolved: 2023-08-23T11:18:35.219Z
