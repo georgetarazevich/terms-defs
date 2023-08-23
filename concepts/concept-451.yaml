@@ -579,4 +579,6 @@ swe:
         author:
           name: Glossarist bot
           email: glossarist@ribose.com
-relations: []
+relations:
+  - to: -1
+    type: related
