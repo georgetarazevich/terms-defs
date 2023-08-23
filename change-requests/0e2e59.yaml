@@ -27,7 +27,7 @@ revisions:
       timeCreated: 2023-08-21T18:21:17.698Z
 meta:
   registry:
-    stage: Proposal
+    stage: Resolved
   submitter:
     primaryPerson:
       name: test_user_name
@@ -76,3 +76,4 @@ _revisions:
       parents: []
       timeCreated: 2023-08-21T18:21:17.655Z
 timeSubmitted: 2023-08-21T18:23:38.700Z
+timeResolved: 2023-08-23T11:18:12.572Z
