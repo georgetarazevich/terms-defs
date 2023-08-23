@@ -1,0 +1,37 @@
+id: 4340c8
+author:
+  username: georgetarazevich
+  name: georgetarazevich
+  email: abc@qwerty.com
+timeCreated: 2023-08-23T11:05:03.704Z
+revisions: {}
+meta:
+  registry:
+    stage: Draft
+  submitter:
+    primaryPerson:
+      name: georgetarazevich
+      email: abc@qwerty.com
+      affiliation: ''
+_revisions:
+  current: 452a31
+  tree:
+    452a31:
+      object:
+        id: 4340c8
+        author:
+          username: georgetarazevich
+          name: georgetarazevich
+          email: abc@qwerty.com
+        timeCreated: 2023-08-23T11:05:03.704Z
+        revisions: {}
+        meta:
+          registry:
+            stage: Draft
+          submitter:
+            primaryPerson:
+              name: georgetarazevich
+              email: abc@qwerty.com
+              affiliation: ''
+      parents: []
+      timeCreated: 2023-08-23T11:05:03.704Z
