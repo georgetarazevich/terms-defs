@@ -6,7 +6,7 @@ eng:
   terms:
   - type: expression
     normative_status: preferred
-    designation: access software
+    designation: access software 25-1
   definition:
   - content: type of software that presents part of or all of the information content
       of an information object in forms understandable to humans or systems
@@ -57,10 +57,11 @@ eng:
           release: '5'
           terms:
           - type: expression
-            designation: access software
+            designation: access software 25-2
             normative_status: preferred
         parents: []
         timeCreated: '2018-05-01T00:00:00.000Z'
         author:
           name: Glossarist bot
           email: glossarist@ribose.com
+        changeRequestID: 206cc7
