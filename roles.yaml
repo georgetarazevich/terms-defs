@@ -12,5 +12,9 @@
 #georgetarazevich:
 #   isRegistryManager: true
 
+#georgetarazevich:
+#  isManager: true
+
+
 georgetarazevich:
-  isManager: true
+  isRegistryManager: true
