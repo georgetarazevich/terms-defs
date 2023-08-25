@@ -1,0 +1,20 @@
+---
+term: PDF 2.0
+termid: 22
+eng:
+  id: 22
+  definition: PDF 2.0 is the latest version of the PDF specification and is the first
+    PDF specification entirely developed under the ISO consensus-based process. It
+    is formally defined by ISO 32000-2:2020.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-26 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: PDF 2.0
+    normative_status: preferred

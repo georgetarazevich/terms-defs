@@ -1,0 +1,22 @@
+---
+term: trailer
+termid: 34
+eng:
+  id: 34
+  definition: trailer is a reserved PDF keyword and defines the start of the trailer
+    dictionary. The trailer enables a PDF processor to quickly find certain special
+    objects and data, such as the largest object number in the PDF, the Document Catalog
+    and the optional encryption dictionary (if the PDF is encrypted). It is an essential
+    part of every PDF file.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-08 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: trailer
+    normative_status: preferred

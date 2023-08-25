@@ -1,21 +1,27 @@
 ---
-term: abstract test module
+term: Conformance Level
 termid: 5
 eng:
   id: 5
-  definition: set of related abstract test cases
+  definition: PDF Conformance Levels are represented by letter designators with a
+    PDF ISO subset acronym, such as PDF/A-1b, PDF/A-4e, PDF/X-5pg, PDF/VT-2s. Each
+    Conformance Level relates to a specialized definition in the corresponding PDF
+    ISO subset with its own very specific set of rules and requirements. For example,
+    PDF/A-4 is the PDF-for-archival standard supporting PDF 2.0, with PDF/A-4e being
+    a highly specialized refinement of PDF/A-4 supporting engineering workflows with
+    3D content (hence the "e" designator) while PDF/A-2b (basic) and PDF/A-2u (Unicode)
+    differ in requirements related to Unicode text extraction capabilities.  Not all
+    PDF ISO subsets use conformance levels.
   language_code: eng
-  notes:
-  - Abstract test modules may be nested in a hierarchical way.
+  notes: []
   examples: []
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: ISO 19105:2000
-    link: https://www.iso.org/standard/26010.html
-  date_accepted: 2000-12-15 00:00:00.000000000 +02:00
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-09 00:00:00.000000000 +03:00
   release: 1.0
   terms:
   - type: expression
-    designation: abstract test module
+    designation: Conformance Level
     normative_status: preferred

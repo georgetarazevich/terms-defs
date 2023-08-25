@@ -1,0 +1,29 @@
+---
+term: Form (AcroForm)
+termid: 10
+eng:
+  id: 10
+  definition: PDF supports both interactive and non-Interactive forms. For technical
+    details see clause 12.7 in ISO 32000-2:2020. Interactive forms were introduced
+    in PDF 1.2 as a collection of fields for gathering information interactively from
+    the user and are sometimes referred to as "AcroForms". A PDF document may contain
+    any number of fields appearing on any combination of pages, all of which make
+    up a single, global interactive form spanning the entire document. Arbitrary subsets
+    of these fields can be imported or exported from the document as FDF or XFDF.
+    Non-interactive forms (introduced in PDF 1.7) are a static representation of form
+    fields. Such forms may have originally contained interactive fields such as text
+    fields and radio buttons but were converted into non-interactive PDF files, they
+    may represent form fields and/or data converted from external sources, or they
+    may have been designed to be printed out and filled in manually.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-14 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Form (AcroForm)
+    normative_status: preferred

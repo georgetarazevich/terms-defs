@@ -1,0 +1,27 @@
+---
+term: FDF
+termid: 9
+eng:
+  id: 9
+  definition: Forms Data Format is a specialized file format, expressed in the same
+    COS syntax that PDF uses, used for interactive form data that was introduced in
+    PDF 1.2. FDF can be used when submitting form data to a server, receiving the
+    response, and incorporating it into the interactive form. It can also be used
+    to export form data to stand-alone files that can be stored, transmitted electronically,
+    and imported back into the corresponding PDF interactive form. In addition, beginning
+    in PDF 1.3, FDF can be used to define a container for annotations that are separate
+    from the PDF document to which they apply. For technical details see clause 12.7.8
+    of ISO 32000-2:2020.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-13 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: FDF
+    normative_status: preferred

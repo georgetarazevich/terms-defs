@@ -1,0 +1,19 @@
+---
+term: XFDF
+termid: 37
+eng:
+  id: 37
+  definition: 'XFDF is the XML equivalent of FDF. It is defined by ISO 19444-1:2019 Document
+    management - XML Forms Data Format — Part 1: Use of ISO 32000-2 (XFDF 3.0).'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-11 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: XFDF
+    normative_status: preferred

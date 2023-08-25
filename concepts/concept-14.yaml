@@ -1,0 +1,21 @@
+---
+term: Indirect object
+termid: 14
+eng:
+  id: 14
+  definition: A PDF indirect object is an object that is defined in the body section
+    of a PDF file with an object identifier (comprising an object number and generation
+    number). It will be referenced elsewhere in the PDF file by using an indirect
+    reference (keyword R) with its object identifier.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-18 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Indirect object
+    normative_status: preferred

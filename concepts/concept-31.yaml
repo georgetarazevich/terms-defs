@@ -1,0 +1,25 @@
+---
+term: Rolemap
+termid: 31
+eng:
+  id: 31
+  definition: Rolemaps are a core Tagged PDF concept that allows any structure type
+    to be conceptually mapped between namespaces in a manner that enables all PDF
+    processors to understand the basic intention of structure types. For example,
+    a custom structure type called Foo might be rolemapped to a paragraph in the standard
+    structure namespace, indicating that semantically Foo is "best matched" as a paragraph.
+    Rolemaps thus support the use of custom structure types in PDF. Rolemaps and their
+    use are described in clause 14.7 Logical structure and clause 14.8 Tagged PDF
+    in ISO 32000.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-05 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Rolemap
+    normative_status: preferred

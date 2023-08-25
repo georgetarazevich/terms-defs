@@ -1,0 +1,20 @@
+---
+term: PDF/UA
+termid: 26
+eng:
+  id: 26
+  definition: PDF/UA is the ISO-defined formal subset of PDF to support universal
+    access, enabling high levels of accessibility for electronic documents. It is
+    defined by the ISO 14289 family of standards. "UA" stands for universal access.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-30 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: PDF/UA
+    normative_status: preferred

@@ -1,21 +1,21 @@
 ---
-term: abstract test method
+term: Bookmarks
 termid: 4
 eng:
   id: 4
-  definition: method for testing implementation independent of any particular test
-    procedure
+  definition: Bookmarks are an informal term for PDF’s Document Outline feature. Bookmarks
+    are commonly displayed in a separate navigation pane to aid document navigation
+    and are a technically distinct feature from headings in content. For technical
+    details see clause 12.3.3 in ISO 32000-2:2020.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
-  review_indicator: ''
   authoritative_source:
-    ref: ISO 19105:2000
-    link: https://www.iso.org/standard/26010.html
-  date_accepted: 2000-12-15 00:00:00.000000000 +02:00
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-08 00:00:00.000000000 +03:00
   release: 1.0
   terms:
   - type: expression
-    designation: abstract test method
+    designation: Bookmarks
     normative_status: preferred

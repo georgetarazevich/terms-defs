@@ -1,0 +1,21 @@
+---
+term: XMP
+termid: 38
+eng:
+  id: 38
+  definition: 'XMP stands for the eXtensible Metadata Platform which is an XML-based
+    standard for metadata used in PDF and required by all ISO PDF subset standards.
+    XMP is defined by ISO 16684-1:2019 Graphic technology — Extensible metadata platform
+    (XMP) — Part 1: Data model, serialization and core properties.'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-12 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: XMP
+    normative_status: preferred

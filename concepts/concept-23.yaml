@@ -1,0 +1,21 @@
+---
+term: PDF/A
+termid: 23
+eng:
+  id: 23
+  definition: PDF/A is an ISO defined formal subset of PDF designed to support long-term
+    preservation and digital archiving. PDF/A focuses on accurate preservation of
+    the static visual representation of page-based electronic documents over time
+    and is defined by the ISO 19005 family of standards. "A" stands for archival.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-27 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: PDF/A
+    normative_status: preferred

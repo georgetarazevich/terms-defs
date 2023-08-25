@@ -1,0 +1,21 @@
+---
+term: Integer page index
+termid: 15
+eng:
+  id: 15
+  definition: In PDF the integer page index is a 0-based index of the pages in a PDF
+    file, with the first page having an integer page index of zero. It is commonly
+    used by internal PDF data structures. In contrast, Fragment Identifiers use a
+    1-based counting system.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-19 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Integer page index
+    normative_status: preferred

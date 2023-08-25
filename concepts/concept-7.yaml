@@ -1,25 +1,22 @@
 ---
-term: acceptance testing <user>
+term: Direct object
 termid: 7
 eng:
   id: 7
-  definition: process of determining whether an implementation satisfies acceptance
-    criteria and enables the user to determine whether to accept the implementation
+  definition: A direct PDF object is an object that occurs inline where it is defined
+    and that does have its own object identifier. In contrast to indirect objects,
+    direct objects cannot be directly referenced as they do not have their own object
+    identifiers.
   language_code: eng
-  notes:
-  - This includes the planning and execution of several kinds of tests (e.g. functional,
-    volume, performance tests) that demonstrate that the implementation satisfies
-    the user requirements.
-  - This is not a part of conformance testing
+  notes: []
   examples: []
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: ISO 19105:2000
-    link: https://www.iso.org/standard/26010.html
-  date_accepted: 2000-12-15 00:00:00.000000000 +02:00
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-11 00:00:00.000000000 +03:00
   release: 1.0
   terms:
   - type: expression
-    designation: acceptance testing <user>
+    designation: Direct object
     normative_status: preferred

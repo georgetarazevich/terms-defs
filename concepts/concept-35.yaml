@@ -1,0 +1,19 @@
+---
+term: Widgets
+termid: 35
+eng:
+  id: 35
+  definition: A PDF widget is a specialized type of PDF annotation used with interactive
+    forms and represents the GUI widgets through which data entry is done.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-09 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Widgets
+    normative_status: preferred

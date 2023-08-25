@@ -1,0 +1,21 @@
+---
+term: PDF/X
+termid: 29
+eng:
+  id: 29
+  definition: PDF/X is defined by the ISO 15930 family of standards which supports
+    the graphic arts and professional printing sectors. The "X" in "PDF/X" is for
+    eXchange, indicating specialized support for the exchange of digital data targeting
+    professionally printed products.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-03 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: PDF/X
+    normative_status: preferred

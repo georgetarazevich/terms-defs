@@ -1,0 +1,22 @@
+---
+term: xref
+termid: 39
+eng:
+  id: 39
+  definition: xref is a reserved PDF keyword used to identify the start of a conventional
+    cross-reference table. It is also commonly used colloquially in place of the phrase
+    "cross-reference". PDF 1.5 and later files that only use cross-reference streams
+    do not use this keyword. PDF files that have incremental updates may have multiple
+    instances of this keyword.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-05-13 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: xref
+    normative_status: preferred

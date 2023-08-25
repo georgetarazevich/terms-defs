@@ -1,0 +1,23 @@
+---
+term: PDF/E
+termid: 24
+eng:
+  id: 24
+  definition: 'PDF/E is an ISO defined formal subset of PDF 1.6 defined to support
+    the engineering sectors with support for interactive 3D models. For technical
+    details see the PDF/E ISO standard ISO 24517-1:2008 Document management — Engineering
+    document format using PDF — Part 1: Use of PDF 1.6 (PDF/E-1). PDF 2.0 support
+    for engineering workflows is now provided via the PDF/A-4e conformance level -
+    see PDF/A. "E" stands for engineering.'
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-28 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: PDF/E
+    normative_status: preferred

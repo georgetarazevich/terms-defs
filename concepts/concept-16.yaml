@@ -1,0 +1,21 @@
+---
+term: Layers
+termid: 16
+eng:
+  id: 16
+  definition: Layers is an informal term for Optional Content Groups (OCGs) in PDF.
+    Layers can typically be individually toggled on and off in interactive PDF viewers.
+    Examples include architectural drawings where plumbing, electrical wiring, foundations,
+    etc. might each be represented on separate layers.
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-20 00:00:00.000000000 +03:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: Layers
+    normative_status: preferred
