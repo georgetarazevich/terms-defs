@@ -1,0 +1,21 @@
+---
+term: World Wide Web
+termid: 1435
+eng:
+  id: 1435
+  synonyms: Web
+  definition: universe of network-accessible information and services
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19101-1:2014
+    clause: 4.1.40
+    link: https://www.iso.org/standard/59164.html
+  date_accepted: 2014-11-01 00:00:00.000000000 +03:00
+  release: 3.0
+  terms:
+  - type: expression
+    designation: World Wide Web
+    normative_status: preferred

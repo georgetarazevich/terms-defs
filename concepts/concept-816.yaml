@@ -1,0 +1,24 @@
+---
+term: a priori classification
+termid: 816
+eng:
+  id: 816
+  definition: classification scheme structured so that the classes are abstract conceptualizations
+    of the types actually occurring
+  language_code: eng
+  notes:
+  - Taken from FAO LCCS version 2 (see Reference [2] in ISO 19144-1)
+  - The approach is based upon definition of classes before any data collection actually
+    takes place
+  - See Annex B [of ISO 19144-1] for an examination of this and a posteriori classification
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19144-1:2009
+    link: https://www.iso.org/standard/32562.html
+  date_accepted: 2009-08-15 00:00:00.000000000 +03:00
+  release: 2.0
+  terms:
+  - type: expression
+    designation: a priori classification
+    normative_status: preferred

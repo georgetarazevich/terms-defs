@@ -1,0 +1,23 @@
+---
+term: zero meridian
+termid: 505
+eng:
+  id: 505
+  synonyms: prime meridian
+  definition: meridian from which the longitudes of other meridians are quantified
+  language_code: eng
+  notes: []
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO 19111:2007
+    link: https://www.iso.org/standard/41126.html
+  lineage_source: ISO 19111:2003
+  lineage_source_similarity: 1.0
+  date_accepted: 2003-02-15 00:00:00.000000000 +02:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: zero meridian
+    normative_status: admitted

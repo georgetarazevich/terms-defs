@@ -1,0 +1,26 @@
+---
+term: abstract test case
+termid: 3
+eng:
+  id: 3
+  definition: generalized test for a particular requirement
+  language_code: eng
+  notes:
+  - An abstract test case is a formal basis for deriving executable test cases One
+    or more test purposes are encapsulated in the abstract test case. An abstract
+    test case is independent of both the implementation and the values. It should
+    be complete in the sense that it is sufficient to enable a test verdict to be
+    assigned unambiguously to each potentially observable test outcome (i.e. sequence
+    of test events).
+  examples: []
+  entry_status: valid
+  review_indicator: ''
+  authoritative_source:
+    ref: ISO 19105:2000
+    link: https://www.iso.org/standard/26010.html
+  date_accepted: 2000-12-15 00:00:00.000000000 +02:00
+  release: 1.0
+  terms:
+  - type: expression
+    designation: abstract test case
+    normative_status: preferred

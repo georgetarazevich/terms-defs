@@ -1,0 +1,22 @@
+---
+term: a posteriori classification
+termid: 815
+eng:
+  id: 815
+  definition: classification scheme based upon definition of classes after clustering
+    the field samples collected
+  language_code: eng
+  notes:
+  - Taken from FAO LCCS version 2 (see Reference [2] in ISO 19144-1)
+  - See Annex B [of ISO 19144-1] for an examination of this and a priori classification
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 19144-1:2009
+    link: https://www.iso.org/standard/32562.html
+  date_accepted: 2009-08-15 00:00:00.000000000 +03:00
+  release: 2.0
+  terms:
+  - type: expression
+    designation: a posteriori classification
+    normative_status: preferred
