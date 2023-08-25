@@ -4,7 +4,39 @@ author:
   name: georgetarazevich
   email: abc@qwerty.com
 timeCreated: 2023-08-25T13:52:45.752Z
-revisions: {}
+revisions:
+  concepts:
+    3000-eng:
+      object:
+        id: 3000
+        definition: >-
+          type of software that presents part of or all of the information
+          content of an information object in forms understandable to humans or
+          systems
+        language_code: eng
+        notes: []
+        examples: []
+        entry_status: valid
+        authoritative_source:
+          ref: 'ISO 14721:2012'
+          clause: '1.7.2, modified'
+          link: 'https://www.iso.org/standard/57284.html'
+        date_accepted: 2018-05-01T00:00:00.000Z
+        review_date: 2018-05-01T00:00:00.000Z
+        review_status: final
+        review_decision: accepted
+        review_decision_date: 2018-05-01T00:00:00.000Z
+        review_decision_event: Normal ISO processing
+        review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+        release: '5'
+        terms:
+          - type: expression
+            designation: access software 25-2
+            normative_status: preferred
+        usageInfo: 'Usage: abc'
+      parents:
+        - e16736
+      timeCreated: 2023-08-25T13:52:45.827Z
 meta:
   registry:
     stage: Draft
@@ -24,7 +56,39 @@ _revisions:
           name: georgetarazevich
           email: abc@qwerty.com
         timeCreated: 2023-08-25T13:52:45.752Z
-        revisions: {}
+        revisions:
+          concepts:
+            3000-eng:
+              object:
+                id: 3000
+                definition: >-
+                  type of software that presents part of or all of the
+                  information content of an information object in forms
+                  understandable to humans or systems
+                language_code: eng
+                notes: []
+                examples: []
+                entry_status: valid
+                authoritative_source:
+                  ref: 'ISO 14721:2012'
+                  clause: '1.7.2, modified'
+                  link: 'https://www.iso.org/standard/57284.html'
+                date_accepted: 2018-05-01T00:00:00.000Z
+                review_date: 2018-05-01T00:00:00.000Z
+                review_status: final
+                review_decision: accepted
+                review_decision_date: 2018-05-01T00:00:00.000Z
+                review_decision_event: Normal ISO processing
+                review_decision_notes: 'Publication of document ISO 19165-1:2018(E)'
+                release: '5'
+                terms:
+                  - type: expression
+                    designation: access software 25-2
+                    normative_status: preferred
+                usageInfo: 'Usage: abc'
+              parents:
+                - e16736
+              timeCreated: 2023-08-25T13:52:45.827Z
         meta:
           registry:
             stage: Draft
