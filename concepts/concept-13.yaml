@@ -1,24 +1,41 @@
----
 term: Incremental update
 termid: 13
 eng:
   id: 13
-  definition: A PDF file can be updated incrementally without rewriting the entire
-    file. When updating a PDF file incrementally, changes are appended to the end
-    of the file, leaving the original contents unchanged. For example, a PDF-based
-    document review tool may write PDF annotations as incremental updates, ensuring
-    that a digitally signed original document is not invalidated by the adding of
-    comments. Such technical details are typically not visible to end-users. For technical
-    details see ISO 32000-2:2020.
+  definition: "A PDF file can be updated incrementally without rewriting the entire file. When updating a PDF file incrementally, changes are appended to the end of the file, leaving the original contents unchanged. For example, a PDF-based document review tool may write PDF\_annotations\_as incremental updates, ensuring that a digitally signed original document is not invalidated by the adding of comments. Such technical details are typically not visible to end-users. For technical details see\_ISO 32000-2:2020."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-17 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-16T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Incremental update
-    normative_status: preferred
+    - type: expression
+      designation: Incremental update
+      normative_status: preferred
+  _revisions:
+    current: c8a200
+    tree:
+      c8a200:
+        object:
+          id: 13
+          definition: "A PDF file can be updated incrementally without rewriting the entire file. When updating a PDF file incrementally, changes are appended to the end of the file, leaving the original contents unchanged. For example, a PDF-based document review tool may write PDF\_annotations\_as incremental updates, ensuring that a digitally signed original document is not invalidated by the adding of comments. Such technical details are typically not visible to end-users. For technical details see\_ISO 32000-2:2020."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-16T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Incremental update
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-16T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

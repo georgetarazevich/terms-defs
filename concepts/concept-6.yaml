@@ -1,11 +1,11 @@
----
 term: COS
 termid: 6
 eng:
   id: 6
-  definition: COS is the acronym for "Carousel Object Syntax", which is the syntax
-    used by PDF and FDF files and is fully described in ISO 32000-2:2020. It is what
-    you see if you look inside a PDF file. "Carousel" was the codename for Acrobat
+  definition: >-
+    COS is the acronym for "Carousel Object Syntax", which is the syntax used by
+    PDF and FDF files and is fully described in ISO 32000-2:2020. It is what you
+    see if you look inside a PDF file. "Carousel" was the codename for Acrobat
     1.0 when this syntax was first introduced.
   language_code: eng
   notes: []
@@ -13,10 +13,40 @@ eng:
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-10 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-09T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: COS
-    normative_status: preferred
+    - type: expression
+      designation: COS
+      normative_status: preferred
+  _revisions:
+    current: '781120'
+    tree:
+      '781120':
+        object:
+          id: 6
+          definition: >-
+            COS is the acronym for "Carousel Object Syntax", which is the syntax
+            used by PDF and FDF files and is fully described in ISO
+            32000-2:2020. It is what you see if you look inside a PDF file.
+            "Carousel" was the codename for Acrobat 1.0 when this syntax was
+            first introduced.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-09T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: COS
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-09T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

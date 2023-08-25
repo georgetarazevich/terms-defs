@@ -1,21 +1,41 @@
----
 term: XMP
 termid: 38
 eng:
   id: 38
-  definition: 'XMP stands for the eXtensible Metadata Platform which is an XML-based
-    standard for metadata used in PDF and required by all ISO PDF subset standards.
-    XMP is defined by ISO 16684-1:2019 Graphic technology — Extensible metadata platform
-    (XMP) — Part 1: Data model, serialization and core properties.'
+  definition: "XMP stands for the\_eXtensible Metadata Platform\_which is an XML-based standard for metadata used in PDF and required by all ISO PDF subset standards. XMP is defined by ISO 16684-1:2019\_Graphic technology — Extensible metadata platform (XMP) — Part 1: Data model, serialization and core properties."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-05-12 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-05-11T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: XMP
-    normative_status: preferred
+    - type: expression
+      designation: XMP
+      normative_status: preferred
+  _revisions:
+    current: 6cb46c
+    tree:
+      6cb46c:
+        object:
+          id: 38
+          definition: "XMP stands for the\_eXtensible Metadata Platform\_which is an XML-based standard for metadata used in PDF and required by all ISO PDF subset standards. XMP is defined by ISO 16684-1:2019\_Graphic technology — Extensible metadata platform (XMP) — Part 1: Data model, serialization and core properties."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-05-11T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: XMP
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-05-11T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

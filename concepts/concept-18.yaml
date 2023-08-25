@@ -1,20 +1,41 @@
----
 term: OCG
 termid: 18
 eng:
   id: 18
-  definition: Optional Content Groups are the formally defined feature in PDF which
-    enable selectable layers in interactive PDF viewers. For technical details see
-    clause 8.11 of ISO 32000-2:2020.
+  definition: "Optional Content Groups are the formally defined feature in PDF which enable selectable\_layers\_in interactive PDF viewers. For technical details see clause 8.11 of\_ISO 32000-2:2020."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-22 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-21T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: OCG
-    normative_status: preferred
+    - type: expression
+      designation: OCG
+      normative_status: preferred
+  _revisions:
+    current: b6c987
+    tree:
+      b6c987:
+        object:
+          id: 18
+          definition: "Optional Content Groups are the formally defined feature in PDF which enable selectable\_layers\_in interactive PDF viewers. For technical details see clause 8.11 of\_ISO 32000-2:2020."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-21T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: OCG
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-21T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,23 +1,56 @@
----
 term: Annotation
 termid: 2
 eng:
   id: 2
-  definition: Annotations are a special PDF feature most commonly associated with
-    commenting and reviewing a document, such as highlighting text, text strikethrough,
-    or sketching on top of a document. However PDF 2.0 defines 28 different kinds
-    of annotations which provide a far richer feature set including URLs (Link annotations),
-    watermarks, form widgets, interactive 3D content, redaction, sound, movies and
-    other rich media. For technical details see clause 12.5 in ISO 32000-2:2020.
+  definition: >-
+    Annotations are a special PDF feature most commonly associated with
+    commenting and reviewing a document, such as highlighting text, text
+    strikethrough, or sketching on top of a document. However PDF 2.0 defines 28
+    different kinds of annotations which provide a far richer feature set
+    including URLs (Link annotations), watermarks, form widgets, interactive 3D
+    content, redaction, sound, movies and other rich media. For technical
+    details see clause 12.5 in ISO 32000-2:2020.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-06 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-05T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Annotation
-    normative_status: preferred
+    - type: expression
+      designation: Annotation
+      normative_status: preferred
+  _revisions:
+    current: '258643'
+    tree:
+      '258643':
+        object:
+          id: 2
+          definition: >-
+            Annotations are a special PDF feature most commonly associated with
+            commenting and reviewing a document, such as highlighting text, text
+            strikethrough, or sketching on top of a document. However PDF 2.0
+            defines 28 different kinds of annotations which provide a far richer
+            feature set including URLs (Link annotations), watermarks, form
+            widgets, interactive 3D content, redaction, sound, movies and other
+            rich media. For technical details see clause 12.5 in ISO
+            32000-2:2020.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-05T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Annotation
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-05T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

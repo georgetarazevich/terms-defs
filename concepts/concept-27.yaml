@@ -1,26 +1,41 @@
----
 term: PDF/VCR
 termid: 27
 eng:
   id: 27
-  definition: 'PDF/VCR enables variable data printing applications using PDF template-based
-    variable content substitution whereby a PDF template file containing pages with
-    variable content substitution fields (placeholders) is delivered ahead of a print
-    production run and may be reused across multiple print production runs, and PDF-based
-    variable data substitution content is provided during print production and merged
-    with the PDF template to produce final form variable content page output. "VCR"
-    stands for variable content replacement. It is defined by ISO 16613-1:2017 Graphic
-    technology — Variable content replacement — Part 1: Using PDF/X for variable content
-    replacement (PDF/VCR-1).'
+  definition: "PDF/VCR enables variable data printing applications using PDF template-based variable content substitution whereby a PDF template file containing pages with variable content substitution fields (placeholders) is delivered ahead of a print production run and may be reused across multiple print production runs, and PDF-based variable data substitution content is provided during print production and merged with the PDF template to produce final form variable content page output. \"VCR\" stands for variable content replacement. It is defined by ISO 16613-1:2017\_Graphic technology — Variable content replacement — Part 1: Using PDF/X for variable content replacement (PDF/VCR-1)."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-05-01 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-30T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: PDF/VCR
-    normative_status: preferred
+    - type: expression
+      designation: PDF/VCR
+      normative_status: preferred
+  _revisions:
+    current: 964dc0
+    tree:
+      964dc0:
+        object:
+          id: 27
+          definition: "PDF/VCR enables variable data printing applications using PDF template-based variable content substitution whereby a PDF template file containing pages with variable content substitution fields (placeholders) is delivered ahead of a print production run and may be reused across multiple print production runs, and PDF-based variable data substitution content is provided during print production and merged with the PDF template to produce final form variable content page output. \"VCR\" stands for variable content replacement. It is defined by ISO 16613-1:2017\_Graphic technology — Variable content replacement — Part 1: Using PDF/X for variable content replacement (PDF/VCR-1)."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-30T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: PDF/VCR
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-30T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

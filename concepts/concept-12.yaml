@@ -1,23 +1,55 @@
----
 term: Hybrid-reference PDF file
 termid: 12
 eng:
   id: 12
-  definition: A Hybrid-reference PDF file is a PDF 1.5 (or later) file containing
-    objects referenced by standard cross-reference tables in addition to objects in
-    object streams that are referenced by cross-reference streams. Only PDF 1.5 and
-    later files can be hybrid-reference PDFs because cross-reference streams were
-    introduced in PDF 1.5. Refer to clause 7.5.8.4 Compatibility with applications
-    that do not support compressed reference streams in ISO 32000-2:2020.
+  definition: >-
+    A Hybrid-reference PDF file is a PDF 1.5 (or later) file containing objects
+    referenced by standard cross-reference tables in addition to objects in
+    object streams that are referenced by cross-reference streams. Only PDF 1.5
+    and later files can be hybrid-reference PDFs because cross-reference streams
+    were introduced in PDF 1.5. Refer to clause 7.5.8.4 Compatibility with
+    applications that do not support compressed reference streams in ISO
+    32000-2:2020.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-16 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-15T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Hybrid-reference PDF file
-    normative_status: preferred
+    - type: expression
+      designation: Hybrid-reference PDF file
+      normative_status: preferred
+  _revisions:
+    current: f1ad45
+    tree:
+      f1ad45:
+        object:
+          id: 12
+          definition: >-
+            A Hybrid-reference PDF file is a PDF 1.5 (or later) file containing
+            objects referenced by standard cross-reference tables in addition to
+            objects in object streams that are referenced by cross-reference
+            streams. Only PDF 1.5 and later files can be hybrid-reference PDFs
+            because cross-reference streams were introduced in PDF 1.5. Refer to
+            clause 7.5.8.4 Compatibility with applications that do not support
+            compressed reference streams in ISO 32000-2:2020.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-15T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Hybrid-reference PDF file
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-15T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,21 +1,50 @@
----
 term: Layers
 termid: 16
 eng:
   id: 16
-  definition: Layers is an informal term for Optional Content Groups (OCGs) in PDF.
-    Layers can typically be individually toggled on and off in interactive PDF viewers.
-    Examples include architectural drawings where plumbing, electrical wiring, foundations,
-    etc. might each be represented on separate layers.
+  definition: >-
+    Layers is an informal term for Optional Content Groups (OCGs) in PDF. Layers
+    can typically be individually toggled on and off in interactive PDF viewers.
+    Examples include architectural drawings where plumbing, electrical wiring,
+    foundations, etc. might each be represented on separate layers.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-20 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-19T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Layers
-    normative_status: preferred
+    - type: expression
+      designation: Layers
+      normative_status: preferred
+  _revisions:
+    current: ef97fe
+    tree:
+      ef97fe:
+        object:
+          id: 16
+          definition: >-
+            Layers is an informal term for Optional Content Groups (OCGs) in
+            PDF. Layers can typically be individually toggled on and off in
+            interactive PDF viewers. Examples include architectural drawings
+            where plumbing, electrical wiring, foundations, etc. might each be
+            represented on separate layers.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-19T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Layers
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-19T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

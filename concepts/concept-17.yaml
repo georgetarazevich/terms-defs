@@ -1,21 +1,41 @@
----
 term: Linearized PDF
 termid: 17
 eng:
   id: 17
-  definition: Linearized PDF is the formally defined feature in PDF feature that enables
-    the first page of a PDF file to be available for rapid display before the rest
-    of the PDF is fully downloaded. It is often referred to as "Fast web view". For
-    technical details see Annex F in ISO 32000-2:2020.
+  definition: "Linearized PDF is the formally defined feature in PDF feature that enables the first page of a PDF file to be available for rapid display before the rest of the PDF is fully downloaded. It is often referred to as \"Fast web view\". For technical details see Annex F in\_ISO 32000-2:2020."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-21 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-20T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Linearized PDF
-    normative_status: preferred
+    - type: expression
+      designation: Linearized PDF
+      normative_status: preferred
+  _revisions:
+    current: '943686'
+    tree:
+      '943686':
+        object:
+          id: 17
+          definition: "Linearized PDF is the formally defined feature in PDF feature that enables the first page of a PDF file to be available for rapid display before the rest of the PDF is fully downloaded. It is often referred to as \"Fast web view\". For technical details see Annex F in\_ISO 32000-2:2020."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-20T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Linearized PDF
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-20T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

@@ -1,25 +1,60 @@
----
 term: Fragment Identifier
 termid: 11
 eng:
   id: 11
-  definition: 'Annex O in ISO 32000-2 defines PDF-specific fragment identifiers that
-    can be added to the end of URLs that provide anchors to specific content or influence
-    the display of a linked PDF file. Fragment identifiers are defined by the W3C
-    and appear after the # symbol in a URL. A simple example is that a URL can refer
-    to a specific page in a PDF by appending page=n (where n starts from 1) to a URL:
+  definition: >-
+    Annex O in ISO 32000-2 defines PDF-specific fragment identifiers that can be
+    added to the end of URLs that provide anchors to specific content or
+    influence the display of a linked PDF file. Fragment identifiers are defined
+    by the W3C and appear after the # symbol in a URL. A simple example is that
+    a URL can refer to a specific page in a PDF by appending page=n (where n
+    starts from 1) to a URL:
     https://pdfa.org/wp-content/uploads/2019/09/PDF-Association-flyer-A4.pdf#page=2
-    opens to the 2nd page of this PDF.'
+    opens to the 2nd page of this PDF.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-15 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-14T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Fragment Identifier
-    normative_status: preferred
+    - type: expression
+      designation: Fragment Identifier
+      normative_status: preferred
+  _revisions:
+    current: 80a92d
+    tree:
+      80a92d:
+        object:
+          id: 11
+          definition: >-
+            Annex O in ISO 32000-2 defines PDF-specific fragment identifiers
+            that can be added to the end of URLs that provide anchors to
+            specific content or influence the display of a linked PDF file.
+            Fragment identifiers are defined by the W3C and appear after the #
+            symbol in a URL. A simple example is that a URL can refer to a
+            specific page in a PDF by appending page=n (where n starts from 1)
+            to a URL:
+            https://pdfa.org/wp-content/uploads/2019/09/PDF-Association-flyer-A4.pdf#page=2
+            opens to the 2nd page of this PDF.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-14T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Fragment Identifier
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-14T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

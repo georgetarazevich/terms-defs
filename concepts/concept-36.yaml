@@ -1,21 +1,50 @@
----
 term: XFA
 termid: 36
 eng:
   id: 36
-  definition: XFA stands for "XML Forms Architecture" which is a family of proprietary
-    XML specifications supporting both static and dynamic forms. As a proprietary
-    format with limited support in PDF processors, XFA was deprecated in PDF 2.0 (ISO
-    32000-2:2020) but was permitted in PDF 1.5 - 1.7.
+  definition: >-
+    XFA stands for "XML Forms Architecture" which is a family of proprietary XML
+    specifications supporting both static and dynamic forms. As a proprietary
+    format with limited support in PDF processors, XFA was deprecated in PDF 2.0
+    (ISO 32000-2:2020) but was permitted in PDF 1.5 - 1.7.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-05-10 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-05-09T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: XFA
-    normative_status: preferred
+    - type: expression
+      designation: XFA
+      normative_status: preferred
+  _revisions:
+    current: d7040e
+    tree:
+      d7040e:
+        object:
+          id: 36
+          definition: >-
+            XFA stands for "XML Forms Architecture" which is a family of
+            proprietary XML specifications supporting both static and dynamic
+            forms. As a proprietary format with limited support in PDF
+            processors, XFA was deprecated in PDF 2.0 (ISO 32000-2:2020) but was
+            permitted in PDF 1.5 - 1.7.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-05-09T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: XFA
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-05-09T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
