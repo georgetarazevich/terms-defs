@@ -1,41 +1,19 @@
+---
 term: Widgets
 termid: 35
 eng:
   id: 35
-  definition: "A PDF widget is a specialized type of PDF\_annotation\_used with interactive forms and represents the\_GUI widgets\_through which data entry is done."
+  definition: A PDF widget is a specialized type of PDF annotation used with interactive
+    forms and represents the GUI widgets through which data entry is done.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-05-08T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: Widgets
-      normative_status: preferred
-  _revisions:
-    current: c72d48
-    tree:
-      c72d48:
-        object:
-          id: 35
-          definition: "A PDF widget is a specialized type of PDF\_annotation\_used with interactive forms and represents the\_GUI widgets\_through which data entry is done."
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-05-08T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: Widgets
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-05-08T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: Widgets
+    normative_status: preferred

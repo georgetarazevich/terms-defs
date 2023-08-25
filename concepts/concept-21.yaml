@@ -1,56 +1,24 @@
+---
 term: PDF
 termid: 21
 eng:
   id: 21
-  definition: >-
-    The Portable Document Format is a random access, binary file format for
-    device-independent, paginated documents that defines an accurate appearance
-    model for rendering fully typeset text, images and vector graphics. Overtime
-    PDF has also expanded to include many interactive and specialized features
-    supporting a wide variety of use cases and electronic documents with rich
-    experiences beyond that of "digital paper". It is formally defined by the
-    ISO 32000 family of international standards.
+  definition: The Portable Document Format is a random access, binary file format
+    for device-independent, paginated documents that defines an accurate appearance
+    model for rendering fully typeset text, images and vector graphics. Overtime PDF
+    has also expanded to include many interactive and specialized features supporting
+    a wide variety of use cases and electronic documents with rich experiences beyond
+    that of "digital paper". It is formally defined by the ISO 32000 family of international
+    standards.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-04-24T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: PDF
-      normative_status: preferred
-  _revisions:
-    current: df93ba
-    tree:
-      df93ba:
-        object:
-          id: 21
-          definition: >-
-            The Portable Document Format is a random access, binary file format
-            for device-independent, paginated documents that defines an accurate
-            appearance model for rendering fully typeset text, images and vector
-            graphics. Overtime PDF has also expanded to include many interactive
-            and specialized features supporting a wide variety of use cases and
-            electronic documents with rich experiences beyond that of "digital
-            paper". It is formally defined by the ISO 32000 family of
-            international standards.
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-04-24T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: PDF
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-04-24T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: PDF
+    normative_status: preferred

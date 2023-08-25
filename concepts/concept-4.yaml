@@ -1,50 +1,21 @@
+---
 term: Bookmarks
 termid: 4
 eng:
   id: 4
-  definition: >-
-    Bookmarks are an informal term for PDF’s Document Outline feature. Bookmarks
-    are commonly displayed in a separate navigation pane to aid document
-    navigation and are a technically distinct feature from headings in content.
-    For technical details see clause 12.3.3 in ISO 32000-2:2020.
+  definition: Bookmarks are an informal term for PDF’s Document Outline feature. Bookmarks
+    are commonly displayed in a separate navigation pane to aid document navigation
+    and are a technically distinct feature from headings in content. For technical
+    details see clause 12.3.3 in ISO 32000-2:2020.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-04-07T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: Bookmarks
-      normative_status: preferred
-  _revisions:
-    current: 4ce4a8
-    tree:
-      4ce4a8:
-        object:
-          id: 4
-          definition: >-
-            Bookmarks are an informal term for PDF’s Document Outline feature.
-            Bookmarks are commonly displayed in a separate navigation pane to
-            aid document navigation and are a technically distinct feature from
-            headings in content. For technical details see clause 12.3.3 in ISO
-            32000-2:2020.
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-04-07T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: Bookmarks
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-04-07T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: Bookmarks
+    normative_status: preferred

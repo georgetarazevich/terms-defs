@@ -1,51 +1,22 @@
+---
 term: OCR
 termid: 19
 eng:
   id: 19
-  definition: >-
-    Optical Character Recognition is the process of recognizing text from an
-    image (photo) of text. It is typically referenced in relation to scan-to-PDF
-    functionality. The accuracy of OCR results can vary depending on the quality
-    of the page image and other factors. PDF does not constrain or limit OCR
-    accuracy in any way.
+  definition: Optical Character Recognition is the process of recognizing text from
+    an image (photo) of text. It is typically referenced in relation to scan-to-PDF
+    functionality. The accuracy of OCR results can vary depending on the quality of
+    the page image and other factors. PDF does not constrain or limit OCR accuracy
+    in any way.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-04-22T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: OCR
-      normative_status: preferred
-  _revisions:
-    current: de057f
-    tree:
-      de057f:
-        object:
-          id: 19
-          definition: >-
-            Optical Character Recognition is the process of recognizing text
-            from an image (photo) of text. It is typically referenced in
-            relation to scan-to-PDF functionality. The accuracy of OCR results
-            can vary depending on the quality of the page image and other
-            factors. PDF does not constrain or limit OCR accuracy in any way.
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-04-22T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: OCR
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-04-22T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: OCR
+    normative_status: preferred

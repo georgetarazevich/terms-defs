@@ -1,41 +1,19 @@
+---
 term: XFDF
 termid: 37
 eng:
   id: 37
-  definition: "XFDF is the XML equivalent of\_FDF. It is defined by ISO 19444-1:2019\_Document management - XML Forms Data Format — Part 1: Use of ISO 32000-2 (XFDF 3.0)."
+  definition: 'XFDF is the XML equivalent of FDF. It is defined by ISO 19444-1:2019 Document
+    management - XML Forms Data Format — Part 1: Use of ISO 32000-2 (XFDF 3.0).'
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-05-10T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: XFDF
-      normative_status: preferred
-  _revisions:
-    current: a9a5b3
-    tree:
-      a9a5b3:
-        object:
-          id: 37
-          definition: "XFDF is the XML equivalent of\_FDF. It is defined by ISO 19444-1:2019\_Document management - XML Forms Data Format — Part 1: Use of ISO 32000-2 (XFDF 3.0)."
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-05-10T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: XFDF
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-05-10T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: XFDF
+    normative_status: preferred

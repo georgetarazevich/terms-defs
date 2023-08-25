@@ -1,0 +1,29 @@
+---
+term: character
+termid: 40
+eng:
+  id: 40
+  definition: numeric code representing an abstract symbol according to some defined
+    character encoding rule
+  language_code: eng
+  notes:
+  - |-
+    There are three manifestations of characters in PDF, depending on context:
+
+    * A PDF file is represented as a sequence of 8-bit bytes, some of which are interpreted as
+    character codes in the ASCII character set and some of which are treated as arbitrary binary
+    data depending upon the context.
+    * The contents (data) of a string or stream object in some contexts are interpreted as character
+    codes in the PDFDocEncoding, UTF-8 or UTF-16BE character set.
+    * The contents of a string within a PDF content stream in some situations are interpreted as
+    character codes that select glyphs to be drawn on the page according to a character encoding
+    that is associated with the text font.
+  examples: []
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  terms:
+  - type: expression
+    designation: character
+    normative_status: preferred

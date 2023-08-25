@@ -1,0 +1,20 @@
+---
+term: document part
+termid: 41
+eng:
+  id: 41
+  definition: set of related pages and/or related sets of pages.
+  language_code: eng
+  notes: []
+  examples:
+  - |2-
+
+    The chapter pages of a book or all sets of pages intended for a recipient.
+  entry_status: valid
+  authoritative_source:
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  terms:
+  - type: expression
+    designation: document part
+    normative_status: preferred

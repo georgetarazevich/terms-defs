@@ -1,41 +1,21 @@
+---
 term: PDF/VT
 termid: 28
 eng:
   id: 28
-  definition: "PDF/VT is the ISO-defined formal subset of PDF supporting variable data printing and transactional documents, that builds on the capabilities of\_PDF/X. PDF/VT is defined by the ISO 16612 family of standards. \"VT\" stands for \"Variable Transactional\"."
+  definition: PDF/VT is the ISO-defined formal subset of PDF supporting variable data
+    printing and transactional documents, that builds on the capabilities of PDF/X.
+    PDF/VT is defined by the ISO 16612 family of standards. "VT" stands for "Variable
+    Transactional".
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-05-01T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: PDF/VT
-      normative_status: preferred
-  _revisions:
-    current: aa07cc
-    tree:
-      aa07cc:
-        object:
-          id: 28
-          definition: "PDF/VT is the ISO-defined formal subset of PDF supporting variable data printing and transactional documents, that builds on the capabilities of\_PDF/X. PDF/VT is defined by the ISO 16612 family of standards. \"VT\" stands for \"Variable Transactional\"."
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-05-01T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: PDF/VT
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-05-01T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: PDF/VT
+    normative_status: preferred

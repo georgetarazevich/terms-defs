@@ -1,51 +1,22 @@
+---
 term: Fast web view
 termid: 8
 eng:
   id: 8
-  definition: >-
-    "Fast web view" is an informal term for the Linearized PDF feature that
-    enables the first page of a PDF file to be available for rapid display
-    before the rest of the PDF file is fully downloaded (such as while
-    downloading from the internet).
+  definition: '"Fast web view" is an informal term for the Linearized PDF feature
+    that enables the first page of a PDF file to be available for rapid display before
+    the rest of the PDF file is fully downloaded (such as while downloading from the
+    internet).'
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-04-11T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: Fast web view
-      normative_status: preferred
-  _revisions:
-    current: 41ec83
-    tree:
-      41ec83:
-        object:
-          id: 8
-          definition: >-
-            "Fast web view" is an informal term for the Linearized PDF feature
-            that enables the first page of a PDF file to be available for rapid
-            display before the rest of the PDF file is fully downloaded (such as
-            while downloading from the internet).
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          review_indicator: ''
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-04-11T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: Fast web view
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-04-11T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: Fast web view
+    normative_status: preferred

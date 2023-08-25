@@ -1,41 +1,23 @@
+---
 term: PDF/R
 termid: 25
 eng:
   id: 25
-  definition: "PDF/R is a small subset of PDF targeting multi-page raster image documents, such as scanned documents. It is based on the PDF Association's\_PDF/Raster 1.0 specification\_and is specifically designed to be easy to create in low-end, low memory embedded devices such as scanners. It is defined by ISO 23504-1:2020\_Document management applications — Raster image transport and storage — Part 1: Use of ISO 32000 (PDF/R-1). \"R\" stands for raster."
+  definition: 'PDF/R is a small subset of PDF targeting multi-page raster image documents,
+    such as scanned documents. It is based on the PDF Association''s PDF/Raster 1.0
+    specification and is specifically designed to be easy to create in low-end, low
+    memory embedded devices such as scanners. It is defined by ISO 23504-1:2020 Document
+    management applications — Raster image transport and storage — Part 1: Use of
+    ISO 32000 (PDF/R-1). "R" stands for raster.'
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: 'ISO 32000-2:2020.'
-  date_accepted: 2023-04-28T21:00:00.000Z
-  release: 1
+    ref: ISO 32000-2:2020.
+  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
+  release: 1.0
   terms:
-    - type: expression
-      designation: PDF/R
-      normative_status: preferred
-  _revisions:
-    current: 20aef3
-    tree:
-      20aef3:
-        object:
-          id: 25
-          definition: "PDF/R is a small subset of PDF targeting multi-page raster image documents, such as scanned documents. It is based on the PDF Association's\_PDF/Raster 1.0 specification\_and is specifically designed to be easy to create in low-end, low memory embedded devices such as scanners. It is defined by ISO 23504-1:2020\_Document management applications — Raster image transport and storage — Part 1: Use of ISO 32000 (PDF/R-1). \"R\" stands for raster."
-          language_code: eng
-          notes: []
-          examples: []
-          entry_status: valid
-          authoritative_source:
-            ref: 'ISO 32000-2:2020.'
-          date_accepted: 2023-04-28T21:00:00.000Z
-          release: 1
-          terms:
-            - type: expression
-              designation: PDF/R
-              normative_status: preferred
-        parents: []
-        timeCreated: 2023-04-28T21:00:00.000Z
-        author:
-          name: Data migration procedure
-          email: glossarist@ribose.com
+  - type: expression
+    designation: PDF/R
+    normative_status: preferred
