@@ -15,6 +15,11 @@
 #georgetarazevich:
 #  isManager: true
 
+bdoubrov:
+  isManager: true
+
+MaximPlusov:
+  isManager: true
 
 georgetarazevich:
   isRegistryManager: true
