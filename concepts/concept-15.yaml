@@ -1,21 +1,41 @@
----
 term: Integer page index
 termid: 15
 eng:
   id: 15
-  definition: In PDF the integer page index is a 0-based index of the pages in a PDF
-    file, with the first page having an integer page index of zero. It is commonly
-    used by internal PDF data structures. In contrast, Fragment Identifiers use a
-    1-based counting system.
+  definition: "In PDF the integer page index is a 0-based index of the pages in a PDF file, with the first page having an integer page index of zero. It is commonly used by internal PDF data structures. In contrast,\_Fragment Identifiers\_use a 1-based counting system."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Integer page index
-    normative_status: preferred
+    - type: expression
+      designation: Integer page index
+      normative_status: preferred
+  _revisions:
+    current: 159d50
+    tree:
+      159d50:
+        object:
+          id: 15
+          definition: "In PDF the integer page index is a 0-based index of the pages in a PDF file, with the first page having an integer page index of zero. It is commonly used by internal PDF data structures. In contrast,\_Fragment Identifiers\_use a 1-based counting system."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Integer page index
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

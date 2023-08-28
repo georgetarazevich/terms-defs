@@ -1,27 +1,64 @@
----
 term: Conformance Level
 termid: 5
 eng:
   id: 5
-  definition: PDF Conformance Levels are represented by letter designators with a
-    PDF ISO subset acronym, such as PDF/A-1b, PDF/A-4e, PDF/X-5pg, PDF/VT-2s. Each
-    Conformance Level relates to a specialized definition in the corresponding PDF
-    ISO subset with its own very specific set of rules and requirements. For example,
-    PDF/A-4 is the PDF-for-archival standard supporting PDF 2.0, with PDF/A-4e being
-    a highly specialized refinement of PDF/A-4 supporting engineering workflows with
-    3D content (hence the "e" designator) while PDF/A-2b (basic) and PDF/A-2u (Unicode)
-    differ in requirements related to Unicode text extraction capabilities.  Not all
-    PDF ISO subsets use conformance levels.
+  definition: >-
+    PDF Conformance Levels are represented by letter designators with a PDF ISO
+    subset acronym, such as PDF/A-1b, PDF/A-4e, PDF/X-5pg, PDF/VT-2s. Each
+    Conformance Level relates to a specialized definition in the corresponding
+    PDF ISO subset with its own very specific set of rules and requirements. For
+    example, PDF/A-4 is the PDF-for-archival standard supporting PDF 2.0, with
+    PDF/A-4e being a highly specialized refinement of PDF/A-4 supporting
+    engineering workflows with 3D content (hence the "e" designator) while
+    PDF/A-2b (basic) and PDF/A-2u (Unicode) differ in requirements related to
+    Unicode text extraction capabilities.  Not all PDF ISO subsets use
+    conformance levels.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   review_indicator: ''
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Conformance Level
-    normative_status: preferred
+    - type: expression
+      designation: Conformance Level
+      normative_status: preferred
+  _revisions:
+    current: e9181f
+    tree:
+      e9181f:
+        object:
+          id: 5
+          definition: >-
+            PDF Conformance Levels are represented by letter designators with a
+            PDF ISO subset acronym, such as PDF/A-1b, PDF/A-4e, PDF/X-5pg,
+            PDF/VT-2s. Each Conformance Level relates to a specialized
+            definition in the corresponding PDF ISO subset with its own very
+            specific set of rules and requirements. For example, PDF/A-4 is the
+            PDF-for-archival standard supporting PDF 2.0, with PDF/A-4e being a
+            highly specialized refinement of PDF/A-4 supporting engineering
+            workflows with 3D content (hence the "e" designator) while PDF/A-2b
+            (basic) and PDF/A-2u (Unicode) differ in requirements related to
+            Unicode text extraction capabilities.  Not all PDF ISO subsets use
+            conformance levels.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          review_indicator: ''
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Conformance Level
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

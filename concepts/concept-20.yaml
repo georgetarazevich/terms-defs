@@ -1,25 +1,41 @@
----
 term: Page labels
 termid: 20
 eng:
   id: 20
-  definition: 'As documents can be long with many pages, humans have invented conventions
-    to label pages more descriptively to assist with navigation. We are used to seeing
-    front matter labelled with Roman numerals: i, ii, iii, iv, etc.; appendices prefixed
-    with uppercase letters such as A.1, A.2, etc. or even chapter/page combinations
-    such as 1-1, 1-2, 2-1, 2-2. In PDF terminology this is what is referred to as
-    a page label - an optional descriptive label of a page that is commonly presented
-    on-screen. This is in contrast to the integer page index used internally in PDF
-    files.'
+  definition: "As documents can be long with many pages, humans have invented conventions to label pages more descriptively to assist with navigation. We are used to seeing front matter labelled with Roman numerals: i, ii, iii, iv, etc.; appendices prefixed with uppercase letters such as A.1, A.2, etc. or even chapter/page combinations such as 1-1, 1-2, 2-1, 2-2. In PDF terminology this is what is referred to as a page label - an optional descriptive label of a page that is commonly presented on-screen. This is in contrast to the\_integer page index\_used internally in PDF files."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Page labels
-    normative_status: preferred
+    - type: expression
+      designation: Page labels
+      normative_status: preferred
+  _revisions:
+    current: aad638
+    tree:
+      aad638:
+        object:
+          id: 20
+          definition: "As documents can be long with many pages, humans have invented conventions to label pages more descriptively to assist with navigation. We are used to seeing front matter labelled with Roman numerals: i, ii, iii, iv, etc.; appendices prefixed with uppercase letters such as A.1, A.2, etc. or even chapter/page combinations such as 1-1, 1-2, 2-1, 2-2. In PDF terminology this is what is referred to as a page label - an optional descriptive label of a page that is commonly presented on-screen. This is in contrast to the\_integer page index\_used internally in PDF files."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Page labels
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

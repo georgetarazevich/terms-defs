@@ -1,23 +1,41 @@
----
 term: Tagged PDF
 termid: 33
 eng:
   id: 33
-  definition: PDF 1.4 introduced "Tagged PDF" to represent the logical reading order
-    (structure) of a document. It defines a set of standard structure types and attributes
-    that allow page content (text, graphics and images, as well as annotations and
-    form fields) to be extracted and reused for other purposes. PDF/UA uses Tagged
-    PDF to ensure electronic documents are fully accessible. For technical details
-    see clause 14.8 of ISO 32000-2:2020.
+  definition: "PDF 1.4 introduced \"Tagged PDF\" to represent the logical reading order (structure) of a document. It defines a set of standard structure types and attributes that allow page content (text, graphics and images, as well as annotations and form fields) to be extracted and reused for other purposes.\_PDF/UA\_uses Tagged PDF to ensure electronic documents are fully accessible. For technical details see clause 14.8 of\_ISO 32000-2:2020."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: Tagged PDF
-    normative_status: preferred
+    - type: expression
+      designation: Tagged PDF
+      normative_status: preferred
+  _revisions:
+    current: 7f8a8f
+    tree:
+      7f8a8f:
+        object:
+          id: 33
+          definition: "PDF 1.4 introduced \"Tagged PDF\" to represent the logical reading order (structure) of a document. It defines a set of standard structure types and attributes that allow page content (text, graphics and images, as well as annotations and form fields) to be extracted and reused for other purposes.\_PDF/UA\_uses Tagged PDF to ensure electronic documents are fully accessible. For technical details see clause 14.8 of\_ISO 32000-2:2020."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: Tagged PDF
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

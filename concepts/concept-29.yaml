@@ -1,21 +1,49 @@
----
 term: PDF/X
 termid: 29
 eng:
   id: 29
-  definition: PDF/X is defined by the ISO 15930 family of standards which supports
-    the graphic arts and professional printing sectors. The "X" in "PDF/X" is for
-    eXchange, indicating specialized support for the exchange of digital data targeting
-    professionally printed products.
+  definition: >-
+    PDF/X is defined by the ISO 15930 family of standards which supports the
+    graphic arts and professional printing sectors. The "X" in "PDF/X" is for
+    eXchange, indicating specialized support for the exchange of digital data
+    targeting professionally printed products.
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: PDF/X
-    normative_status: preferred
+    - type: expression
+      designation: PDF/X
+      normative_status: preferred
+  _revisions:
+    current: '989502'
+    tree:
+      '989502':
+        object:
+          id: 29
+          definition: >-
+            PDF/X is defined by the ISO 15930 family of standards which supports
+            the graphic arts and professional printing sectors. The "X" in
+            "PDF/X" is for eXchange, indicating specialized support for the
+            exchange of digital data targeting professionally printed products.
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: PDF/X
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com

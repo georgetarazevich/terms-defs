@@ -1,20 +1,41 @@
----
 term: startxref
 termid: 32
 eng:
   id: 32
-  definition: startxref is a reserved PDF keyword that occurs just before the %%EOF end-of-file
-    comment marker along with the byte offset to the cross-reference data for the
-    PDF file (expressed as an integer in ASCII).
+  definition: "startxref\_is a reserved PDF keyword that occurs just before the\_%%EOF\_end-of-file comment marker along with the byte offset to the cross-reference data for the PDF file (expressed as an integer in ASCII)."
   language_code: eng
   notes: []
   examples: []
   entry_status: valid
   authoritative_source:
-    ref: ISO 32000-2:2020.
-  date_accepted: 2023-04-05 00:00:00.000000000 +03:00
-  release: 1.0
+    ref: 'ISO 32000-2:2020.'
+  date_accepted: 2023-04-04T21:00:00.000Z
+  release: 1
   terms:
-  - type: expression
-    designation: startxref
-    normative_status: preferred
+    - type: expression
+      designation: startxref
+      normative_status: preferred
+  _revisions:
+    current: 7b975c
+    tree:
+      7b975c:
+        object:
+          id: 32
+          definition: "startxref\_is a reserved PDF keyword that occurs just before the\_%%EOF\_end-of-file comment marker along with the byte offset to the cross-reference data for the PDF file (expressed as an integer in ASCII)."
+          language_code: eng
+          notes: []
+          examples: []
+          entry_status: valid
+          authoritative_source:
+            ref: 'ISO 32000-2:2020.'
+          date_accepted: 2023-04-04T21:00:00.000Z
+          release: 1
+          terms:
+            - type: expression
+              designation: startxref
+              normative_status: preferred
+        parents: []
+        timeCreated: 2023-04-04T21:00:00.000Z
+        author:
+          name: Data migration procedure
+          email: glossarist@ribose.com
